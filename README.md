@@ -61,6 +61,13 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white)
 
+### 🎨 Multimedia tools
+
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
+![Shotcut](https://img.shields.io/badge/Shotcut-000000?logo=shotcut&logoColor=white)
+
 ### 🤝🏻 You want to talk to me?
 
 <a href="mailto:simad3647@gmail.com"><img src="https://img.shields.io/badge/simad3647@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
