@@ -80,7 +80,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=7s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
 
-A comprehensive tutorial designed to help developers master Elasticsearch using its Python client. This course includes interactive notebooks, detailed slides, and a step-by-step video series that guides you from basic concepts to advanced implementations.
+This course is made for beginners who want to learn Elasticsearch with the Python client. I covered a lot of topics, like creating indexes, adding documents, using query DSL, the search API, and more.
 
 ### 2. Open Source Routing Machine with Python
 
@@ -88,7 +88,7 @@ A comprehensive tutorial designed to help developers master Elasticsearch using 
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 
-Learn to leverage the power of OSRM, a free and open-source routing engine. This course teaches you to solve complex routing challenges including the Traveling Salesman Problem, point-to-network snapping, and GPS trace processing—all using Python as the interface language.
+This course is made for beginners who want to learn OSRM, a free and open-source routing engine, with Python. I covered a lot of topics, like solving complex routing problems, the Traveling Salesman Problem, point-to-network snapping, GPS trace processing, and more.
 
 ### 3. Train a Language Model to Talk Like You
 
@@ -96,4 +96,4 @@ Learn to leverage the power of OSRM, a free and open-source routing engine. This
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 
-A fascinating journey into the world of language models. This course guides you through training a custom language model using personal chat data from platforms like WhatsApp and Telegram. Learn the complete process from data preparation to deployment, and create an AI that mimics individual communication styles.
+This course is made for beginners who want to learn how to train a language model from scratch to talk like a person. I covered a lot of topics, like using chat data from platforms like WhatsApp and Telegram, preparing the data, training the base model, fine-tuning, and more.
