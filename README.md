@@ -73,7 +73,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 [![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
-<img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white">
+<a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=7s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
 
 A comprehensive tutorial designed to help developers master Elasticsearch using its Python client. This course includes interactive notebooks, detailed slides, and a step-by-step video series that guides you from basic concepts to advanced implementations.
 
