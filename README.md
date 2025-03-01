@@ -51,7 +51,7 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
-#### 🎮 Game development
+### 🎮 Game development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
