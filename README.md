@@ -77,7 +77,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 [![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
 
-<img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
+<a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=7s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
 
 This course is made for beginners who want to learn Elasticsearch with the Python client. I covered a lot of topics, like creating indexes, adding documents, using query DSL, the search API, and more.
@@ -86,7 +86,8 @@ This course is made for beginners who want to learn Elasticsearch with the Pytho
 
 [![OSRM Course Thumbnail](./images/osrm_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ)
 
-<img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
+<a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
+
 
 This course is made for beginners who want to learn OSRM, a free and open-source routing engine, with Python. I covered a lot of topics, like solving complex routing problems, the Traveling Salesman Problem, point-to-network snapping, GPS trace processing, and more.
 
@@ -94,6 +95,6 @@ This course is made for beginners who want to learn OSRM, a free and open-source
 
 [![Language Model Course Thumbnail](./images/train_language_model_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
 
-<img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
+<a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 
 This course is made for beginners who want to learn how to train a language model from scratch to talk like a person. I covered a lot of topics, like using chat data from platforms like WhatsApp and Telegram, preparing the data, training the base model, fine-tuning, and more.
