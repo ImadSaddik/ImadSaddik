@@ -116,3 +116,9 @@ This course is made for beginners who want to learn how to train a language mode
 <a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
 
 I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Captivated by the stunning images shared by NASA, ESA, CSA, and APOD (Astronomy Picture of the Day), I noticed that APOD's website looked a bit outdated. Since I've been learning web development, I decided to create My Universe Hub, a modern, interactive, and visually engaging version of APOD. After investing over a year of hard work into this project, I'm excited to share it with the world and invite others to explore and contribute.
+
+## 🌌 Astrophotography
+
+![Astrophotography](./images/orion_bir_tam_tam.jpeg)
+
+I love astrophotography. I enjoy taking pictures of the night sky and the wonders of the universe with my phone. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
