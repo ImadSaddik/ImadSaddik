@@ -105,3 +105,15 @@ This course is made for beginners who want to learn OSRM, a free and open-source
 <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 
 This course is made for beginners who want to learn how to train a language model from scratch to talk like a person. I covered a lot of topics, like using chat data from platforms like WhatsApp and Telegram, preparing the data, training the base model, fine-tuning, and more.
+
+## Projects shipped to production
+
+### My Universe Hub
+
+[![My Universe Hub Thumbnail](./images/my_universe_hub_home_page.png)](https://www.youtube.com/watch?v=kvoKKJ2zsts)
+
+<a href="https://github.com/ImadSaddik/My_Universe_Hub"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
+<a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
+
+I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Captivated by the stunning images shared by NASA, ESA, CSA, and APOD (Astronomy Picture of the Day), I noticed that APOD's website looked a bit outdated. Since I've been learning web development, I decided to create My Universe Hub, a modern, interactive, and visually engaging version of APOD. After investing over a year of hard work into this project, I'm excited to share it with the world and invite others to explore and contribute
+
