@@ -56,6 +56,11 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 
+### 📱 Android development
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white)
+
 ### 🤝🏻 You want to talk to me?
 
 <a href="mailto:simad3647@gmail.com"><img src="https://img.shields.io/badge/simad3647@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
