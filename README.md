@@ -119,5 +119,5 @@ I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Capt
 
 ## GitHub stats
 
-![Imad Saddik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImadSaddik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadSaddik&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImadSaddik&show_icons=true&theme=github_dark&count_private=true&custom_title=GitHub%20stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadSaddik&layout=compact&theme=github_dark&custom_title=Most%20used%20languages)
