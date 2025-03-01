@@ -70,7 +70,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 ### 1. Elasticsearch course for beginners
 
-[![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.svg)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+[![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 <img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white">
@@ -79,7 +79,7 @@ A comprehensive tutorial designed to help developers master Elasticsearch using 
 
 ### 2. Open Source Routing Machine with Python
 
-[![OSRM Course Thumbnail](./images/osrm_course_cover.svg)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+[![OSRM Course Thumbnail](./images/osrm_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ)
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 
@@ -87,7 +87,7 @@ Learn to leverage the power of OSRM, a free and open-source routing engine. This
 
 ### 3. Train a Language Model to Talk Like You
 
-[![Language Model Course Thumbnail](./images/train_language_model_course_cover.svg)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+[![Language Model Course Thumbnail](./images/train_language_model_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
 
 <img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white">
 
