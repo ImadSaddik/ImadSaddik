@@ -8,7 +8,7 @@ I believe that developing AI applications for space exploration is fascinating a
 
 ## Skills & Technologies
 
-### 🤖 Machine learning
+### Machine learning
 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
@@ -21,7 +21,7 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/%20Hugging%20Face-FFD21E?&logo=hugging-face&logoColor=white)
 
-### 💻 Software development
+### Software development
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-171515?&logo=github&logoColor=white)
@@ -30,7 +30,7 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
 
-### 🌐 Web development
+### Web development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -42,7 +42,7 @@ I believe that developing AI applications for space exploration is fascinating a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
-### 📊 Databases
+### Databases
 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
@@ -50,24 +50,7 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
-### 🎮 Game development
-
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-
-### 📱 Android development
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white)
-
-### 🎨 Multimedia tools
-
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
-![Shotcut](https://img.shields.io/badge/Shotcut-000000?logo=shotcut&logoColor=white)
-
-### 🤝🏻 You want to talk to me?
+### You want to talk to me?
 
 <a href="mailto:simad3647@gmail.com"><img src="https://img.shields.io/badge/simad3647@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/imadsaddik/"><img src="https://img.shields.io/badge/Imad%20Saddik-0077B5?logo=linkedin&logoColor=white"></a>
@@ -115,7 +98,7 @@ I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Capt
 
 The website is built using Vue.js for the frontend and Django with SQLite for the backend After investing over a year of hard work into this project, I'm excited to share it with the world and invite others to explore and contribute.
 
-## 🌌 Astrophotography
+## Astrophotography
 
 I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
 
