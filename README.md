@@ -29,7 +29,6 @@ I believe that developing AI applications for space exploration is fascinating a
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white)
 
 ### 🌐 Web development
 
