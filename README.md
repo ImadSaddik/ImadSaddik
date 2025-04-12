@@ -8,17 +8,13 @@ I believe that developing AI applications for space exploration is fascinating a
 
 ## Skills & Technologies
 
-### Machine learning
+### Machine & deep learning
 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/%20Hugging%20Face-FFD21E?&logo=hugging-face&logoColor=white)
 
 ### Software development
