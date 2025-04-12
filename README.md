@@ -116,6 +116,6 @@ I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Capt
 
 ## 🌌 Astrophotography
 
-![Astrophotography](./images/orion_bir_tam_tam.jpg)
+I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
 
-I love astrophotography. I enjoy taking pictures of the night sky and the wonders of the universe with my phone. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
+![Astrophotography](./images/orion_bir_tam_tam.jpg)
