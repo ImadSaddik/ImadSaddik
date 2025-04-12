@@ -21,6 +21,7 @@ I believe that developing AI applications for space exploration is fascinating a
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-171515?&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-330F63?&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
@@ -45,12 +46,6 @@ I believe that developing AI applications for space exploration is fascinating a
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-
-### You want to talk to me?
-
-<a href="mailto:simad3647@gmail.com"><img src="https://img.shields.io/badge/simad3647@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/imadsaddik/"><img src="https://img.shields.io/badge/Imad%20Saddik-0077B5?logo=linkedin&logoColor=white"></a>
-<a href="https://discord.com/users/imad_saddik"><img src="https://img.shields.io/badge/imad__saddik-5865F2?logo=discord&logoColor=white"></a><br>
 
 ## Courses I have created
 
@@ -99,3 +94,13 @@ The website is built using Vue.js for the frontend and Django with SQLite for th
 I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
 
 ![Astrophotography](./images/orion_bir_tam_tam.jpg)
+
+## Let's connect
+
+I am always open to new opportunities and collaborations. If you are interested in working together or have any questions, feel free to reach out to me.
+
+**Email:** [simad3647@gmail.com](mailto:simad3647@gmail.com)
+
+**LinkedIn:** [Imad Saddik](https://www.linkedin.com/in/imadsaddik/)
+
+**Discord:** [imad_saddik](https://discord.com/users/imad_saddik)
