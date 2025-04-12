@@ -80,7 +80,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 ### 1. Elasticsearch course for beginners
 
-[![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
+[![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
 
 <a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=7s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
@@ -89,7 +89,7 @@ This course is made for beginners who want to learn Elasticsearch with the Pytho
 
 ### 2. Open Source Routing Machine with Python
 
-[![OSRM Course Thumbnail](./images/osrm_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ)
+[![OSRM Course Thumbnail](./images/osrm_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ)
 
 <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 
@@ -97,7 +97,7 @@ This course is made for beginners who want to learn OSRM, a free and open-source
 
 ### 3. Train a Language Model from scratch
 
-[![Language Model Course Thumbnail](./images/train_language_model_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
+[![Language Model Course Thumbnail](./images/train_language_model_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
 
 <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 
