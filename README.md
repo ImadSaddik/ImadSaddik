@@ -74,11 +74,9 @@ I believe that developing AI applications for space exploration is fascinating a
 <a href="https://www.linkedin.com/in/imadsaddik/"><img src="https://img.shields.io/badge/Imad%20Saddik-0077B5?logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/users/imad_saddik"><img src="https://img.shields.io/badge/imad__saddik-5865F2?logo=discord&logoColor=white"></a><br>
 
-## Courses & Educational Content
+## Courses I have created
 
 I find joy in sharing knowledge and teaching others, and it also serves as an effective way for me to learn new technologies.
-
-## Courses I have created
 
 ### 1. Elasticsearch course for beginners
 
@@ -95,10 +93,9 @@ This course is made for beginners who want to learn Elasticsearch with the Pytho
 
 <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 
-
 This course is made for beginners who want to learn OSRM, a free and open-source routing engine, with Python. I covered a lot of topics, like solving complex routing problems, the Traveling Salesman Problem, point-to-network snapping, GPS trace processing, and more.
 
-### 3. Train a Language Model to Talk Like You
+### 3. Train a Language Model from scratch
 
 [![Language Model Course Thumbnail](./images/train_language_model_course_cover.svg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
 
