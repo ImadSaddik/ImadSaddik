@@ -73,6 +73,7 @@ This course is made for beginners who want to learn OSRM, a free and open-source
 [![Language Model Course Thumbnail](./images/train_language_model_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
 
 <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
+<a href="https://www.youtube.com/watch?v=9Ge0sMm65jo"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
 
 This course is made for beginners who want to learn how to train a language model from scratch to talk like a person. I covered a lot of topics, like using chat data from platforms like WhatsApp and Telegram, preparing the data, training the base model, fine-tuning, and more.
 
