@@ -51,31 +51,43 @@ I believe that developing AI applications for space exploration is fascinating a
 
 I find joy in sharing knowledge and teaching others, and it also serves as an effective way for me to learn new technologies.
 
-### 1. Elasticsearch course for beginners
-
-[![Elasticsearch Course Thumbnail](./images/elasticsearch_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=QO94klfGRAg&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
-
-<a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
-<a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=7s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
-
-This course is made for beginners who want to learn Elasticsearch with the Python client. I covered a lot of topics, like creating indexes, adding documents, using query DSL, the search API, and more.
-
-### 2. Open Source Routing Machine with Python
-
-[![OSRM Course Thumbnail](./images/osrm_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ)
-
-<a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
-
-This course is made for beginners who want to learn OSRM, a free and open-source routing engine, with Python. I covered a lot of topics, like solving complex routing problems, the Traveling Salesman Problem, point-to-network snapping, GPS trace processing, and more.
-
-### 3. Train a Language Model from scratch
-
-[![Language Model Course Thumbnail](./images/train_language_model_course_cover.jpg)](https://www.youtube.com/playlist?list=https://www.youtube.com/watch?v=znaV2eWEqOU&list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
-
-<a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
-<a href="https://www.youtube.com/watch?v=9Ge0sMm65jo"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&amp;logoColor=white"></a>
-
-This course is made for beginners who want to learn how to train a language model from scratch to talk like a person. I covered a lot of topics, like using chat data from platforms like WhatsApp and Telegram, preparing the data, training the base model, fine-tuning, and more.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s" target="_blank">
+            <img src="./images/train_language_model_course_cover.jpg" width="100%"/>
+        </a>
+        <br />
+        <h3 style="margin-bottom: 16px;">Train a language model from scratch</h3>
+        <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+        <p>This course teaches how to train a language model from scratch to talk like a person.</p>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s" target="_blank">
+            <img src="./images/elasticsearch_course_cover.jpg" width="100%"/>
+        </a>
+        <br />
+        <h3 style="margin-bottom: 16px;">Elasticsearch course for beginners</h3>
+        <a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+        <p>Learn Elasticsearch with the Python client, from creating indexes to using query DSL.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://www.youtube.com/playlist?list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ" target="_blank">
+            <img src="./images/osrm_course_cover.jpg" width="100%"/>
+        </a>
+        <br />
+        <h3 style="margin-bottom: 16px;">Open source routing machine with Python</h3>
+        <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+        <p>Learn to solve complex routing problems with OSRM, a free routing engine.</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
 
 ## Projects shipped to production
 
