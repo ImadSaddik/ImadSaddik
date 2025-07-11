@@ -89,7 +89,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
             <img src="./images/transformer_evolution_course_cover.png" width="100%"/>
         </a>
         <br />
-        <h3 style="margin-bottom: 16px;">Evolution of the Transformer Architecture</h3>
+        <h3 style="margin-bottom: 16px;">Evolution of the Transformer architecture</h3>
         <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
         <p>A full course on the evolution of the Transformer architecture from 2017 to 2025.</p>
