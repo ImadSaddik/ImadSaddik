@@ -110,7 +110,7 @@ I’ve loved astronomy since I was 19. I was amazed by the beautiful space photo
 
 ## Astrophotography
 
-I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. Here are some of my favorite shots:
+I love astrophotography. I enjoy taking pictures of the night sky with my equipment. Here are some of my favorite shots:
 
 <table align="center">
     <tr>
