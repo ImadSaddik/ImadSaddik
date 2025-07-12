@@ -2,9 +2,9 @@
 
 I am Imad Saddik, I've found my passion at the intersection of electrical engineering, programming, and astronomy. My journey began in electrical engineering, where I spent five years exploring everything about that field.
 
-While I haven't formally studied astronomy at a university, it's been a lifelong fascination. From a young age, I've pursued this interest independently, driven by curiosity and wonder. Now, as I look to the future, I'm particularly excited about the potential of AI in advancing our understanding of the universe and aiding space exploration.
+While I haven't formally studied astronomy at a university, it's been a lifelong fascination. From a young age, I've pursued this interest independently, driven by curiosity and wonder. I'm excited to pursue personal projects in this field, especially astrophotography and other imaging endeavors.
 
-I believe that developing AI applications for space exploration is fascinating and also important for pushing the boundaries of human knowledge. It's in this area where I want to make my mark in the future.
+I have a profound love for coding. I find joy in solving problems, building applications, and continuously learning new technologies, and sharing knowledge with others.
 
 ## Skills & Technologies
 
