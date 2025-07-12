@@ -6,7 +6,7 @@ While I haven't formally studied astronomy at a university, it's been a lifelong
 
 I have a profound love for coding. I find joy in solving problems, building applications, and continuously learning new technologies, and sharing knowledge with others.
 
-## Skills & Technologies
+## Skills & technologies
 
 ### Machine & deep learning
 
