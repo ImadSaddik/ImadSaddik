@@ -51,6 +51,7 @@ I believe that developing AI applications for space exploration is fascinating a
 
 I find joy in sharing knowledge and teaching others, and it also serves as an effective way for me to learn new technologies.
 
+<div class="responsive-table">
 <table align="center">
     <tr>
         <td align="center" width="50%">
@@ -58,7 +59,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
                 <img src="./images/train_language_model_course_cover.jpg" width="100%"/>
             </a>
             <br />
-            <h3 style="margin-bottom: 16px;">Train a language model from scratch</h3>
+            <h3>Train a language model from scratch</h3>
             <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
             <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
             <p>This course teaches how to train a language model from scratch to talk like a person.</p>
@@ -68,7 +69,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
                 <img src="./images/elasticsearch_course_cover.jpg" width="100%"/>
             </a>
             <br />
-            <h3 style="margin-bottom: 16px;">Elasticsearch course for beginners</h3>
+            <h3>Elasticsearch course for beginners</h3>
             <a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
             <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
             <p>Learn Elasticsearch with the Python client, from creating indexes to using query DSL.</p>
@@ -80,7 +81,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
                 <img src="./images/osrm_course_cover.jpg" width="100%"/>
             </a>
             <br />
-            <h3 style="margin-bottom: 16px;">Open source routing machine with Python</h3>
+            <h3>Open source routing machine with Python</h3>
             <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
             <p>Learn to solve complex routing problems with OSRM, a free routing engine.</p>
         </td>
@@ -89,13 +90,14 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
             <img src="./images/transformer_evolution_course_cover.png" width="100%"/>
         </a>
         <br />
-        <h3 style="margin-bottom: 16px;">Evolution of the Transformer architecture</h3>
+        <h3>Evolution of the Transformer architecture</h3>
         <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
         <p>A full course on the evolution of the Transformer architecture from 2017 to 2025.</p>
         </td>
     </tr>
 </table>
+</div>
 
 ## Projects shipped to production
 
@@ -114,18 +116,19 @@ The website is built using Vue.js for the frontend and Django with SQLite for th
 
 I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. Here are some of my favorite shots:
 
+<div class="responsive-table">
 <table align="center">
     <tr>
         <td align="center" width="50%">
             <img src="./images/orion_bir_tam_tam.jpg" width="100%"/>
             <br />
-            <b>Orion at Bir Tam Tam, Morocco</b>
+            <h3>Orion at Bir Tam Tam, Morocco</h3>
             <p>A photo of Orion taken with my Vivo X50 Pro phone.</p>
         </td>
         <td align="center" width="50%">
             <img src="./images/milky_way_oued_amlil.jpeg" width="100%"/>
             <br />
-            <b>The Milky way at Oued Amlil, Morocco</b>
+            <h3>The Milky way at Oued Amlil, Morocco</h3>
             <p>A shot of the Milky way core taken with my Canon 1300D.</p>
         </td>
     </tr>
@@ -133,17 +136,18 @@ I love astrophotography. I enjoy taking pictures of the night sky with my phone 
         <td align="center" width="50%">
             <img src="./images/star_trails.jpeg" width="100%"/>
             <br />
-            <b>Star trails at Oued Amlil, Morocco</b>
+            <h3>Star trails at Oued Amlil, Morocco</h3>
             <p>A long exposure photo capturing the star trails over Oued Amlil.</p>
         </td>
         <td align="center" width="50%">
             <img src="./images/geminids_meteor_shower.jpeg" width="100%"/>
             <br />
-            <b>Geminids meteor shower at Meknes, Morocco</b>
+            <h3>Geminids meteor shower at Meknes, Morocco</h3>
             <p>Captured few meteors with my Vivo X50 Pro phone.</p>
         </td>
     </tr>
 </table>
+</div>
 
 ## Let's connect
 
@@ -154,3 +158,51 @@ I am always open to new opportunities and collaborations. If you are interested 
 **LinkedIn:** [Imad Saddik](https://www.linkedin.com/in/imadsaddik/)
 
 **Discord:** [imad_saddik](https://discord.com/users/imad_saddik)
+
+<style>
+.responsive-table {
+    overflow-x: auto;
+    width: 100%;
+}
+
+.responsive-table table {
+    width: 100%;
+    max-width: 100%;
+    table-layout: fixed;
+}
+
+@media (max-width: 768px) {
+    .responsive-table {
+        overflow-x: visible;
+    }
+    
+    .responsive-table table,
+    .responsive-table tbody,
+    .responsive-table tr,
+    .responsive-table td {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box;
+    }
+
+    .responsive-table td {
+        margin-bottom: 2rem;
+        padding: 1rem;
+        border: 1px solid #e1e5e9;
+    }
+    
+    .responsive-table img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+}
+
+.responsive-table h3 {
+    margin-bottom: 16px;
+}
+
+.responsive-table p {
+    margin-top: 8px;
+}
+</style>
