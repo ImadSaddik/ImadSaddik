@@ -112,9 +112,38 @@ The website is built using Vue.js for the frontend and Django with SQLite for th
 
 ## Astrophotography
 
-I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. This photo of Orion was taken at Bir Tam Tam, Morocco, and it's one of my favorites.
+I love astrophotography. I enjoy taking pictures of the night sky with my phone and telescope. Here are some of my favorite shots:
 
-![Astrophotography](./images/orion_bir_tam_tam.jpg)
+<table align="center">
+    <tr>
+        <td align="center" width="50%">
+            <img src="./images/orion_bir_tam_tam.jpg" width="100%"/>
+            <br />
+            <b>Orion at Bir Tam Tam, Morocco</b>
+            <p>A photo of Orion taken with my Vivo X50 Pro phone.</p>
+        </td>
+        <td align="center" width="50%">
+            <img src="./images/milky_way_oued_amlil.jpeg" width="100%"/>
+            <br />
+            <b>The Milky way at Oued Amlil, Morocco</b>
+            <p>A shot of the Milky way core taken with my Canon 1300D.</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <img src="./images/star_trails.jpeg" width="100%"/>
+            <br />
+            <b>Star trails at Oued Amlil, Morocco</b>
+            <p>A long exposure photo capturing the star trails over Oued Amlil.</p>
+        </td>
+        <td align="center" width="50%">
+            <img src="./images/geminids_meteor_shower.jpeg" width="100%"/>
+            <br />
+            <b>Geminids meteor shower at Meknes, Morocco</b>
+            <p>Captured few meteors with my Vivo X50 Pro phone.</p>
+        </td>
+    </tr>
+</table>
 
 ## Let's connect
 
