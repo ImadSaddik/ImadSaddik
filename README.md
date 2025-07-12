@@ -106,9 +106,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 <a href="https://myuniversehub.com/"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 <a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
 
-I am an astronomy enthusiast who discovered a passion for the cosmos at 19. Captivated by the stunning images shared by NASA, ESA, CSA, and APOD (Astronomy Picture of the Day), I noticed that APOD's website looked a bit outdated. Since I've been learning web development, I decided to create My Universe Hub, a modern, interactive, and visually engaging version of APOD.
-
-The website is built using Vue.js for the frontend and Django with SQLite for the backend After investing over a year of hard work into this project, I'm excited to share it with the world and invite others to explore and contribute.
+I’ve loved astronomy since I was 19. I was amazed by the beautiful space photos shared by NASA, ESA, CSA, and other astrophotographers on the Astronomy Picture of the Day ([APOD](https://apod.nasa.gov/apod/archivepix.html)) website. But I noticed the site looked a bit old-fashioned. Since I’ve been learning web development, I decided to build [My Universe Hub](https://myuniversehub.com/), a modern, interactive, and more visually appealing version of APOD.
 
 ## Astrophotography
 
