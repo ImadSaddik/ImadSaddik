@@ -6,7 +6,7 @@ While I haven't formally studied astronomy at a university, it's been a lifelong
 
 I have a profound love for coding. I find joy in solving problems, building applications, and continuously learning new technologies, and sharing knowledge with others.
 
-![animated_stars](./animated_svg/stars.svg)
+![animated_stars](./animated_svg/stars_transparent_background.svg)
 
 ## Skills & technologies
 
