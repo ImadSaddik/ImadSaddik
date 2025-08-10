@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2837.9504"
-   height="709.48761"
-   viewBox="0 0 750.87439 187.7186"
+   width="1200"
+   height="600"
+   viewBox="0 0 317.5 158.75"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="px"
-   inkscape:zoom="0.35355341"
-   inkscape:cx="1318.047"
-   inkscape:cy="145.66399"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="603.16205"
+   inkscape:cy="382.8983"
    inkscape:window-width="2560"
    inkscape:window-height="1371"
    inkscape:window-x="0"
@@ -36,11 +36,19 @@
    inkscape:current-layer="layer1"
    showguides="true">
 		<sodipodi:guide
-   position="282.92342,143.23808"
+   position="66.236223,107.37027"
    orientation="0,-1"
    id="guide1"
    inkscape:locked="false" />
-	</sodipodi:namedview>
+	<sodipodi:guide
+   position="158.75,0"
+   orientation="1,0"
+   id="guide2"
+   inkscape:locked="false" /><sodipodi:guide
+   position="317.5,79.375"
+   orientation="0,-1"
+   id="guide3"
+   inkscape:locked="false" /></sodipodi:namedview>
 	<defs
    id="defs1">
 		<inkscape:path-effect
@@ -42349,19 +42357,18 @@
    inkscape:label="Layer 1"
    inkscape:groupmode="layer"
    id="layer1"
-   transform="translate(216.68719,3.819694)">
+   transform="translate(0,39.6875)">
 		<rect
-   style="opacity:1;fill:#0d1117;fill-opacity:1;stroke:none;stroke-width:6.25728;stroke-linejoin:round"
+   style="opacity:1;fill:#0d1117;fill-opacity:1;stroke:none;stroke-width:3.74177;stroke-linejoin:round"
    id="background"
-   width="750.87439"
-   height="187.7186"
-   x="-216.68719"
-   y="-3.819694"
+   width="317.5"
+   height="158.75"
+   x="0"
+   y="-39.6875"
    inkscape:label="background" />
 		<g
    id="stars_group"
-   inkscape:label="stars_group"
-   transform="matrix(2.3649587,0,0,2.3649587,-216.68719,-3.819694)">
+   inkscape:label="stars_group">
 			<path
    id="circle8"
    style="opacity:1;fill:#b5d0ff;stroke-width:0.404757;stroke-linejoin:round"
@@ -43102,8 +43109,8 @@
 		<g
    id="g1"
    inkscape:label="big_dipper"
-   transform="matrix(1.9995694,1.2628348,-1.2628348,1.9995694,128.72559,-452.17186)"
-   style="opacity:1">
+   transform="rotate(32.274597,400.63672,157.60131)"
+   style="display:none;opacity:1">
 			<path
    style="clip-rule:nonzero;fill:#f97316;fill-opacity:1;fill-rule:nonzero;stroke:none"
    d="m 75.589844,107.61719 c 0,-1.51172 -1.226563,-2.73438 -2.738282,-2.73438 -1.511718,0 -2.738281,1.22266 -2.738281,2.73438 0,1.51172 1.226563,2.73828 2.738281,2.73828 1.511719,0 2.738282,-1.22656 2.738282,-2.73828"
@@ -43276,8 +43283,10 @@
 
 		<g
    id="g262"
-   transform="matrix(1.4416908,0,0,1.4416908,-65.232242,-163.88664)"
-   inkscape:label="solarSystem">
+   transform="matrix(1.181111,0,0,1.181111,-29.826844,-168.34248)"
+   inkscape:label="solarSystem"
+   inkscape:transform-center-x="62.415028"
+   inkscape:transform-center-y="-82.470895">
 			<!-- Python -->
 			<g
    id="g3"
