@@ -13869,20 +13869,40 @@
 		<text xml:space="preserve" transform="matrix(0.26458333,0,0,0.26458333,-552.89034,127.56386)" id="text2" style="font-size:13.3333px;line-height:1.8;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#22d3ee;stroke-linejoin:round" />
 		<g id="g245" inkscape:label="meteors">
 			<g id="g244" inkscape:label="meteor4">
-				<path style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 23.573171,-65.131557 403.36313,88.281141" id="path235" inkscape:label="meteorPath" />
-				<path id="path238" style="fill:url(#linearGradient238);stroke-width:0.102641;stroke-linejoin:round" d="m 17.89207,-68.795423 -16.6095793,-5.34026 15.6587203,7.694226 c 0.650029,0.262574 1.389826,-0.05196 1.652423,-0.701543 0.262574,-0.65004 -0.05196,-1.389836 -0.701564,-1.652423 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="-8.7019105" inkscape:transform-center-y="3.8934502" inkscape:label="meteor" />
+				<path style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 23.573171,-65.131557 403.36313,88.281141" id="meteorPath4" inkscape:label="meteorPath4" />
+				<path id="meteor4" style="fill:url(#linearGradient238);stroke-width:0.102641;stroke-linejoin:round" d="m -5.68093,-3.66432 -16.6095793,-5.34026 15.6587203,7.694226 c 0.650029,0.262574 1.389826,-0.05196 1.652423,-0.701543 0.262574,-0.65004 -0.05196,-1.389836 -0.701564,-1.652423 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="-8.7019105" inkscape:transform-center-y="3.8934502" inkscape:label="meteor4">
+					<animateMotion dur="1s" begin="5s;135s;210s;310s" repeatCount="1">
+						<mpath href="#meteorPath4" />
+					</animateMotion>
+					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="5s;135s;210s;310s" repeatCount="1" />
+				</path>
 			</g>
 			<g id="g243" inkscape:label="meteor3">
-				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 127.59446,-78.976119 24.321525,156.00723" id="path236" inkscape:label="meteorPath" />
-				<path id="path8-1" style="fill:url(#linearGradient8);stroke-width:0.102641;stroke-linejoin:round" d="m 132.56138,-87.122722 5.83904,-16.440868 -8.16324,15.419408 c -0.28207,0.64181 0.01,1.39076 0.65136,1.67284 0.64182,0.28207 1.39077,-0.01 1.67284,-0.65138 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="4.1353862" inkscape:transform-center-y="8.5998919" inkscape:label="meteor" />
+				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 127.59446,-78.976119 24.321525,156.00723" id="meteorPath3" inkscape:label="meteorPath3" />
+				<path id="meteor3" style="fill:url(#linearGradient8);stroke-width:0.102641;stroke-linejoin:round" d="m -7.8390401,-3.8716267 5.83904,-16.440868 -8.16324,15.419408 c -0.28207,0.64181 0.01,1.39076 0.65136,1.67284 0.64182,0.28207 1.39077,-0.01 1.67284,-0.65138 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="4.1353862" inkscape:transform-center-y="8.5998919" inkscape:label="meteor3">
+					<animateMotion dur="1s" begin="35s;135s;220s;310s" repeatCount="1">
+						<mpath href="#meteorPath3" />
+					</animateMotion>
+					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="35s;135s;220s;310s" repeatCount="1" />
+				</path>
 			</g>
 			<g id="g242" inkscape:label="meteor2">
-				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 165.76055,-69.247509 190.83043,177.33534" id="path237" inkscape:label="meteorPath" />
-				<path id="path13-4" style="fill:url(#linearGradient237);stroke-width:0.0558955;stroke-linejoin:round" d="m 165.44189,-79.215962 -3.91372,-31.660358 2.53826,31.800199 c 0.0386,0.379821 0.37783,0.656424 0.75766,0.617811 0.37981,-0.03861 0.65642,-0.377826 0.6178,-0.757652 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="-1.9586582" inkscape:transform-center-y="16.210802" inkscape:label="meteor" />
+				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:0" d="M 165.76055,-69.247509 190.83043,177.33534" id="meteorPath2" inkscape:label="meteorPath2" />
+				<path id="meteor2" style="fill:url(#linearGradient237);stroke-width:0.0558955;stroke-linejoin:round" d="m -8.4304694,-6.3160101 -3.91372,-31.660358 2.53826,31.800199 c 0.0386,0.379821 0.37783,0.656424 0.75766,0.617811 0.37981,-0.03861 0.65642,-0.377826 0.6178,-0.757652 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="-1.9586582" inkscape:transform-center-y="16.210802" inkscape:label="meteor2">
+					<animateMotion dur="1s" begin="60s;160s;260s;310s" repeatCount="1">
+						<mpath href="#meteorPath2" />
+					</animateMotion>
+					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="60s;160s;260s;310s" repeatCount="1" />
+				</path>
 			</g>
 			<g id="g241" inkscape:label="meteor1">
-				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round;stroke:#ffffff;stroke-opacity:0" d="M 286.99399,-67.750798 216.46456,195.46864" id="path234" inkscape:label="meteorPath" />
-				<path id="path239" style="fill:url(#linearGradient239);stroke-width:0.0558955;stroke-linejoin:round" d="m 291.68899,-82.601852 7.58702,-30.986008 -8.92247,30.628176 c -0.0988,0.368764 0.12004,0.747823 0.48881,0.84664 0.36876,0.09881 0.74783,-0.120032 0.84664,-0.488808 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="4.4730971" inkscape:transform-center-y="15.749268" inkscape:label="meteor" />
+				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round;stroke:#ffffff;stroke-opacity:0" d="M 286.99399,-67.750798 216.46456,195.46864" id="meteorPath1" inkscape:label="meteorPath1" />
+				<path id="meteor1" style="fill:url(#linearGradient239);stroke-width:0.0558955;stroke-linejoin:round" d="m -10.847922,-5.0270827 7.58702,-30.986008 -8.92247,30.628176 c -0.0988,0.368764 0.12004,0.747823 0.48881,0.84664 0.36876,0.09881 0.74783,-0.120032 0.84664,-0.488808 z" sodipodi:nodetypes="cccsc" inkscape:transform-center-x="4.4730971" inkscape:transform-center-y="15.749268" inkscape:label="meteor1">
+					<animateMotion dur="1s" begin="90s;185s;295s;369s" repeatCount="1">
+						<mpath href="#meteorPath1" />
+					</animateMotion>
+					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="90s;185s;295s;369s" repeatCount="1" />
+				</path>
 			</g>
 		</g>
 	</g>
