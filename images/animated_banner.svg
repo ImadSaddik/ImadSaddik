@@ -13874,7 +13874,7 @@
 					<animateMotion dur="1s" begin="5s;135s;210s;310s" repeatCount="1">
 						<mpath href="#meteorPath4" />
 					</animateMotion>
-					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="5s;135s;210s;310s" repeatCount="1" />
+					<animate attributeName="opacity" from="1" to="0" fill="freeze" dur="1s" begin="5s;135s;210s;310s" repeatCount="1" />
 				</path>
 			</g>
 			<g id="g243" inkscape:label="meteor3">
@@ -13883,7 +13883,7 @@
 					<animateMotion dur="1s" begin="35s;135s;220s;310s" repeatCount="1">
 						<mpath href="#meteorPath3" />
 					</animateMotion>
-					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="35s;135s;220s;310s" repeatCount="1" />
+					<animate attributeName="opacity" from="1" to="0" fill="freeze" dur="1s" begin="35s;135s;220s;310s" repeatCount="1" />
 				</path>
 			</g>
 			<g id="g242" inkscape:label="meteor2">
@@ -13892,7 +13892,7 @@
 					<animateMotion dur="1s" begin="60s;160s;260s;310s" repeatCount="1">
 						<mpath href="#meteorPath2" />
 					</animateMotion>
-					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="60s;160s;260s;310s" repeatCount="1" />
+					<animate attributeName="opacity" from="1" to="0" fill="freeze" dur="1s" begin="60s;160s;260s;310s" repeatCount="1" />
 				</path>
 			</g>
 			<g id="g241" inkscape:label="meteor1">
@@ -13901,7 +13901,7 @@
 					<animateMotion dur="1s" begin="90s;185s;295s;369s" repeatCount="1">
 						<mpath href="#meteorPath1" />
 					</animateMotion>
-					<animate attributeName="opacity" values="0;1;1;0" dur="1s" begin="90s;185s;295s;369s" repeatCount="1" />
+					<animate attributeName="opacity" from="1" to="0" fill="freeze" dur="1s" begin="90s;185s;295s;369s" repeatCount="1" />
 				</path>
 			</g>
 		</g>
