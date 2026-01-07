@@ -38,6 +38,7 @@ I have a profound love for coding. I find joy in solving problems, building appl
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
@@ -48,6 +49,8 @@ I have a profound love for coding. I find joy in solving problems, building appl
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-00B4AB?logo=meilisearch&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-0095FF?logo=snowflake&logoColor=white)
 
 ## Courses I have created
 
