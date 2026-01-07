@@ -88,7 +88,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
         </td>
         <td align="center" width="50%">
         <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s" target="_blank">
-            <img src="./images/transformer_evolution_course_cover.png" width="100%"/>
+            <img src="./images/transformer_evolution_course_cover.jpg" width="100%"/>
         </a>
         <br />
         <h3 style="margin-bottom: 16px;">Evolution of the Transformer architecture</h3>
@@ -103,7 +103,7 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 ## imadsaddik.com
 
-[![imadsaddik.com_thumbnail](./images/imadsaddik_home_page.png)](https://www.youtube.com/watch?v=OfBNIRxqGIU&t)
+[![imadsaddik.com_thumbnail](./images/imadsaddik_home_page.jpg)](https://www.youtube.com/watch?v=OfBNIRxqGIU&t)
 
 <a href="https://github.com/ImadSaddik/ImadSaddikWebsite"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 <a href="https://imadsaddik.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
@@ -112,7 +112,7 @@ I created this website to bring together everything I do online. You will find h
 
 ### myuniversehub.com
 
-[![myuniversehub.com_thumbnail](./images/my_universe_hub_home_page.png)](https://www.youtube.com/watch?v=kvoKKJ2zsts)
+[![myuniversehub.com_thumbnail](./images/my_universe_hub_home_page.jpg)](https://www.youtube.com/watch?v=kvoKKJ2zsts)
 
 <a href="https://github.com/ImadSaddik/My_Universe_Hub"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
 <a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
@@ -132,7 +132,7 @@ I love astrophotography. I enjoy taking pictures of the night sky with my equipm
             <p>A photo of Orion taken with my Vivo X50 Pro phone.</p>
         </td>
         <td align="center" width="50%">
-            <img src="./images/milky_way_oued_amlil.jpeg" width="100%"/>
+            <img src="./images/milky_way_oued_amlil.jpg" width="100%"/>
             <br />
             <b>The Milky way at Oued Amlil, Morocco</b>
             <p>A shot of the Milky way core taken with my Canon 1300D.</p>
@@ -140,13 +140,13 @@ I love astrophotography. I enjoy taking pictures of the night sky with my equipm
     </tr>
     <tr>
         <td align="center" width="50%">
-            <img src="./images/star_trails.jpeg" width="100%"/>
+            <img src="./images/star_trails.jpg" width="100%"/>
             <br />
             <b>Star trails at Oued Amlil, Morocco</b>
             <p>A long exposure photo capturing the star trails over Oued Amlil.</p>
         </td>
         <td align="center" width="50%">
-            <img src="./images/geminids_meteor_shower.jpeg" width="100%"/>
+            <img src="./images/geminids_meteor_shower.jpg" width="100%"/>
             <br />
             <b>Geminids meteor shower at Meknes, Morocco</b>
             <p>Captured few meteors with my Vivo X50 Pro phone.</p>
