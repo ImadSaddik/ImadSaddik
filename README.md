@@ -135,6 +135,8 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 ## Projects shipped to production
 
+I enjoy building and launching full-stack applications that provide value. Here are some of the projects I have brought to life:
+
 <table align="center">
     <tr>
         <td width="40%" valign="top">
