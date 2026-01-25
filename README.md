@@ -135,23 +135,38 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 ## Projects shipped to production
 
-## imadsaddik.com
-
-[![imadsaddik.com_thumbnail](./images/imadsaddik_home_page.jpg)](https://www.youtube.com/watch?v=OfBNIRxqGIU&t)
-
-<a href="https://github.com/ImadSaddik/ImadSaddikWebsite"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
-<a href="https://imadsaddik.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
-
-I created this website to bring together everything I do online. You will find helpful blog posts about programming, courses I have worked on, and astronomy tutorials if you enjoy space 🌝
-
-### myuniversehub.com
-
-[![myuniversehub.com_thumbnail](./images/my_universe_hub_home_page.jpg)](https://www.youtube.com/watch?v=kvoKKJ2zsts)
-
-<a href="https://github.com/ImadSaddik/My_Universe_Hub"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&amp;logoColor=white"></a>
-<a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&amp;logoColor=white"></a>
-
-I’ve loved astronomy since I was 19. I was amazed by the beautiful space photos shared by NASA, ESA, CSA, and other astrophotographers on the Astronomy Picture of the Day ([APOD](https://apod.nasa.gov/apod/archivepix.html)) website. But I noticed the site looked a bit old-fashioned. Since I’ve been learning web development, I decided to build [My Universe Hub](https://myuniversehub.com/), a modern, interactive, and more visually appealing version of APOD.
+<table align="center">
+    <tr>
+        <td width="40%" valign="top">
+            <a href="https://www.youtube.com/watch?v=OfBNIRxqGIU&t" target="_blank">
+                <img src="./images/imadsaddik_home_page.jpg" width="100%"/>
+            </a>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">imadsaddik.com</h3>
+            <p>
+                <a href="https://github.com/ImadSaddik/ImadSaddikWebsite"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://imadsaddik.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&logoColor=white"></a>
+            </p>
+            <p>I created this website to bring together everything I do online. You will find helpful blog posts about programming, courses I have worked on, and astronomy tutorials if you enjoy space 🌝</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="40%" valign="top">
+            <a href="https://www.youtube.com/watch?v=kvoKKJ2zsts" target="_blank">
+                <img src="./images/my_universe_hub_home_page.jpg" width="100%"/>
+            </a>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">myuniversehub.com</h3>
+            <p>
+                <a href="https://github.com/ImadSaddik/My_Universe_Hub"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://myuniversehub.com/"><img alt="Website" src="https://img.shields.io/badge/View_website-0A0A23?logo=internet-explorer&logoColor=white"></a>
+            </p>
+            <p>A modern and interactive version of NASA's Astronomy Picture of the Day (APOD). I built this project to provide a more visually appealing experience for exploring the wonders of our universe.</p>
+        </td>
+    </tr>
+</table>
 
 ## Astrophotography
 
