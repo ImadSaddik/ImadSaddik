@@ -100,6 +100,18 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
         <p>A full course on the evolution of the Transformer architecture from 2017 to 2025.</p>
         </td>
     </tr>
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://www.youtube.com/watch?v=7G9q_5q82hY" target="_blank">
+                <img src="./images/benchmark_embedding_models_course_cover.svg" width="100%"/>
+            </a>
+            <br />
+            <h3 style="margin-bottom: 16px;">How to Benchmark Embedding Models On Your Own Data</h3>
+            <a href="https://github.com/ImadSaddik/Benchmark_Embedding_Models"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+            <a href="https://www.youtube.com/watch?v=7G9q_5q82hY"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            <p>Learn how to benchmark embedding models on your own data to pick the best one for your RAG application.</p>
+        </td>
+    </tr>
 </table>
 
 ## Projects shipped to production
