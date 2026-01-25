@@ -58,57 +58,76 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
 
 <table align="center">
     <tr>
-        <td align="center" width="50%">
+        <td width="40%" valign="top">
             <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s" target="_blank">
                 <img src="./images/train_language_model_course_cover.jpg" width="100%"/>
             </a>
-            <br />
+        </td>
+        <td width="60%" valign="top">
             <h3 style="margin-bottom: 16px;">Train a language model from scratch</h3>
-            <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
-            <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            <p>
+                <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://www.youtube.com/watch?v=9Ge0sMm65jo&t=123s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            </p>
             <p>This course teaches how to train a language model from scratch to talk like a person.</p>
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td width="40%" valign="top">
             <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s" target="_blank">
                 <img src="./images/elasticsearch_course_cover.jpg" width="100%"/>
             </a>
-            <br />
+        </td>
+        <td width="60%" valign="top">
             <h3 style="margin-bottom: 16px;">Elasticsearch course for beginners</h3>
-            <a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
-            <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            <p>
+                <a href="https://github.com/ImadSaddik/ElasticSearch_Python_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://www.youtube.com/watch?v=a4HBKEda_F8&t=16s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            </p>
             <p>Learn Elasticsearch with the Python client, from creating indexes to using query DSL.</p>
         </td>
     </tr>
     <tr>
-        <td align="center" width="50%">
+        <td width="40%" valign="top">
             <a href="https://www.youtube.com/playlist?list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ" target="_blank">
                 <img src="./images/osrm_course_cover.jpg" width="100%"/>
             </a>
-            <br />
-            <h3 style="margin-bottom: 16px;">Open source routing machine with Python</h3>
-            <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
-            <p>Learn to solve complex routing problems with OSRM, a free routing engine.</p>
         </td>
-        <td align="center" width="50%">
-        <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s" target="_blank">
-            <img src="./images/transformer_evolution_course_cover.jpg" width="100%"/>
-        </a>
-        <br />
-        <h3 style="margin-bottom: 16px;">Evolution of the Transformer architecture</h3>
-        <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
-        <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
-        <p>A full course on the evolution of the Transformer architecture from 2017 to 2025.</p>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Open source routing machine with Python</h3>
+            <p>
+                <a href="https://github.com/ImadSaddik/OSRM_Course_Python"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+            </p>
+            <p>Learn to solve complex routing problems with OSRM, a free routing engine.</p>
         </td>
     </tr>
     <tr>
-        <td align="center" width="50%">
+        <td width="40%" valign="top">
+            <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s" target="_blank">
+                <img src="./images/transformer_evolution_course_cover.jpg" width="100%"/>
+            </a>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Evolution of the Transformer architecture</h3>
+            <p>
+                <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1198s"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            </p>
+            <p>A full course on the evolution of the Transformer architecture from 2017 to 2025.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="40%" valign="top">
             <a href="https://www.youtube.com/watch?v=7G9q_5q82hY" target="_blank">
                 <img src="./images/benchmark_embedding_models_course_cover.svg" width="100%"/>
             </a>
-            <br />
+        </td>
+        <td width="60%" valign="top">
             <h3 style="margin-bottom: 16px;">How to Benchmark Embedding Models On Your Own Data</h3>
-            <a href="https://github.com/ImadSaddik/Benchmark_Embedding_Models"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
-            <a href="https://www.youtube.com/watch?v=7G9q_5q82hY"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            <p>
+                <a href="https://github.com/ImadSaddik/Benchmark_Embedding_Models"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://www.youtube.com/watch?v=7G9q_5q82hY"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            </p>
             <p>Learn how to benchmark embedding models on your own data to pick the best one for your RAG application.</p>
         </td>
     </tr>
