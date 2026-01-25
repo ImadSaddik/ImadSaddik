@@ -174,30 +174,38 @@ I love astrophotography. I enjoy taking pictures of the night sky with my equipm
 
 <table align="center">
     <tr>
-        <td align="center" width="50%">
+        <td width="40%" valign="top">
             <img src="./images/orion_bir_tam_tam.jpg" width="100%"/>
-            <br />
-            <b>Orion at Bir Tam Tam, Morocco</b>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Orion at Bir Tam Tam, Morocco</h3>
             <p>A photo of Orion taken with my Vivo X50 Pro phone.</p>
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td width="40%" valign="top">
             <img src="./images/milky_way_oued_amlil.jpg" width="100%"/>
-            <br />
-            <b>The Milky way at Oued Amlil, Morocco</b>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">The Milky way at Oued Amlil, Morocco</h3>
             <p>A shot of the Milky way core taken with my Canon 1300D.</p>
         </td>
     </tr>
     <tr>
-        <td align="center" width="50%">
+        <td width="40%" valign="top">
             <img src="./images/star_trails.jpg" width="100%"/>
-            <br />
-            <b>Star trails at Oued Amlil, Morocco</b>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Star trails at Oued Amlil, Morocco</h3>
             <p>A long exposure photo capturing the star trails over Oued Amlil.</p>
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td width="40%" valign="top">
             <img src="./images/geminids_meteor_shower.jpg" width="100%"/>
-            <br />
-            <b>Geminids meteor shower at Meknes, Morocco</b>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Geminids meteor shower at Meknes, Morocco</h3>
             <p>Captured few meteors with my Vivo X50 Pro phone.</p>
         </td>
     </tr>
