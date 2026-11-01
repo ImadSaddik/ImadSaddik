@@ -131,6 +131,21 @@ I find joy in sharing knowledge and teaching others, and it also serves as an ef
             <p>Learn how to benchmark embedding models on your own data to pick the best one for your RAG application.</p>
         </td>
     </tr>
+    <tr>
+        <td width="40%" valign="top">
+            <a href="https://www.youtube.com/watch?v=wY5pQOTsGaA" target="_blank">
+                <img src="./images/full_stack_web_deployment_course_cover.svg" width="100%"/>
+            </a>
+        </td>
+        <td width="60%" valign="top">
+            <h3 style="margin-bottom: 16px;">Full-stack web deployment from scratch</h3>
+            <p>
+                <a href="https://github.com/ImadSaddik/FullStackDeploymentHandbook"><img alt="GitHub" src="https://img.shields.io/badge/View_repository-171515?logo=github&logoColor=white"></a>
+                <a href="https://www.youtube.com/watch?v=wY5pQOTsGaA"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Featured_on_freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white"></a>
+            </p>
+            <p>Learn how to deploy, secure, automate, and maintain a full-stack web application on Linux from scratch.</p>
+        </td>
+    </tr>
 </table>
 
 ## Projects shipped to production
